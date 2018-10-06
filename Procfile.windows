@@ -1,1 +1,1 @@
-bot: python3 thirdbot.py
+bot: python3.7.0 thirdbot.py
